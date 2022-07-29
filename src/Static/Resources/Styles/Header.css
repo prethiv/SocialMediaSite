@@ -14,6 +14,7 @@
     height:40px;
     width:40px;
     margin-top: 5%;
+    margin-left: 4%;
 }
 
 @media screen and (max-width: 900px) {
@@ -21,12 +22,22 @@
         height:40px;
         width:40px;
         margin-top: 5%;
+        margin-left: 4%;
+    }
+    .App-logo{
+        height: 70px;
+        width: 70px;
     }
  }
  @media screen and (max-width: 600px) {
     .homeIcon {
         height:30px;
         width:30px;
-        margin-top: 15%;
+        margin-top: 10%;
+        margin-left:10%
+    }
+    .App-logo{
+        height: 50px;
+        width: 50px;
     }
  }
